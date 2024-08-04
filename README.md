@@ -1,10 +1,10 @@
 # Analyzing-Football-Fans-ahead-of-Euro-2024
 
 
-##adidas EURO 2024 Data Analysis
+## adidas EURO 2024 Data Analysis
 As the excitement for EURO 2024 builds, adidas is poised to leverage data-driven insights to optimize its marketing strategies and product offerings for football enthusiasts. This project aims to analyze adidas datasets to uncover valuable insights into football fan behavior, preferences, and engagement.
 
-##Project Overview
+## Project Overview
 This repository contains code and resources for analyzing adidas's football-related datasets in the context of the upcoming EURO 2024. The analysis focuses on:
 
 Understanding fan demographics and engagement patterns.
